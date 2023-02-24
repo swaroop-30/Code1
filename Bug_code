@@ -1,0 +1,101 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><link rel="icon" href="/favicon.ico"><link rel="preload" as="image" href="/assets/images/hero-banner-sm.webp" imagesrcset="/assets/images/hero-banner-sm.webp 640w, /assets/images/hero-banner.webp 1440w" imagesizes="100vw"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta name="HandheldFriendly" content="true"><meta name="theme-color" content="#5F2EEA"><link rel="apple-touch-icon" href="/logo192.png"><link rel="manifest" href="/manifest.json"><meta property="og:image:height" content="630"><meta property="og:image:width" content="1200"><meta property="twitter:card" content="summary_large_image"><meta property="og:type" content="website"><meta property="og:site_name" content="Nbyula"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;900&amp;display=swap" rel="stylesheet" defer="defer" async=""><link rel="preconnect" href="https://cdn.nbyula.com/"><script src="https://accounts.google.com/gsi/client" async="" defer="defer"></script><script>window.dataLayer=window.dataLayer||[],function(e,t,a,n,r){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-WP7L7PD",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WP7L7PD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>!function(h,t,j,n,s,e){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)},h._hjSettings={hjid:"2711192",hjsv:6},s=t.getElementsByTagName("head")[0],(e=t.createElement("script")).async=1,e.src="https://static.hotjar.com/c/hotjar-"+h._hjSettings.hjid+".js?sv="+h._hjSettings.hjsv,s.appendChild(e)}(window,document),window.hj=window.hj||function(){(hj.q=hj.q||[]).push(arguments)}</script><style>@keyframes fade-in{from{opacity:.9}}.animate-pulse{animation:fade-in .5s infinite alternate}</style><link href="/static/css/37.2e5ae2c1.chunk.css" rel="stylesheet"><link href="/static/css/main.57b83f3e.chunk.css" rel="stylesheet"><title>CompSci360 | Nbyula</title>
+    <meta name="description" content="The ultimate virtual summit for MS in Computer Science in the UK">
+    <meta property="og:title" content="CompSci360 | Nbyula">
+    <meta property="og:description" content="The ultimate virtual summit for MS in Computer Science in the UK">
+    <meta property="og:image" content="https://nbyula.com/compSciUrlPreview.jpg">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:alt" content="CompSci360 | Nbyula ">
+    
+    <meta property="twitter:title" content="CompSci360 | Nbyula">
+    <meta property="twitter:image" content="https://nbyula.com/compSciUrlPreview.jpg">
+    <meta property="twitter:image:alt" content="CompSci360 | Nbyula ">
+    <meta property="twitter:description" content="The ultimate virtual summit for MS in Computer Science in the UK"><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CompSci360 | Nbyula",
+    "startDate": "2023-02-25T10:00:00.000Z",
+    "endDate": "2023-02-26T18:00:00.000Z",
+    "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "https://nbyula.com/compsci360"
+    },
+    "image": "https://nbyula.com/compSciUrlPreview.jpg",
+    "description": "The ultimate virtual summit for MS in Computer Science in the UK",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Nbyula",
+      "url": "https://nbyula.com/"
+    }
+  }</script></head><body class="subpixel-antialiased"><noscript>You need to enable JavaScript to run this app.</noscript><script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Nbyula",
+        "url": "https://nbyula.com/",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Bangalore",
+          "postalCode": "",
+          "addressCountry": "INDIA"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "telephone": "",
+          "email": "support@nbyula.com"
+        },
+        "logo": "https://nbyula.com/logo512.png",
+        "sameAs": [
+          "https://www.facebook.com/nbyula",
+          "https://twitter.com/nbyula",
+          "https://www.instagram.com/nbyula",
+          "https://www.linkedin.com/company/nbyula/",
+          "https://www.youtube.com/c/Nbyula"
+        ]
+      }</script><script type="application/ld+json">{
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://nbyula.com",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://nbyula.com/search?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }</script><div id="g_id_onload" data-prompt_parent_id="g_id_onload" data-cancel_on_tap_outside="false" data-skip_prompt_cookie="username" style="position:absolute;left:72%;top:66px;width:0;height:0;z-index:1001"></div><div id="modal"></div><div id="sub-modal"></div><div id="root"><div style="display:flex;position:fixed;top:0;left:0;right:0;bottom:0;flex-direction:column;align-items:center;justify-content:center;height:100vh;width:100wh"><svg class="animate-pulse" fill="none" height="40" id="logo" viewBox="0 0 102 102" width="40" xmlns="http://www.w3.org/2000/svg"><path d="M60.1689 67.1544c-6.9654-2.9925-12.9058-7.0037-22.4116-15.8665-18.114-16.796-26.9068-36.0688-19.4639-42.94508 4.6224-4.34863 18.8271-4.19583 36.7883 8.91368" stroke="#000" stroke-linecap="round" stroke-width="6.36695" stroke-linejoin="round"></path><path d="M67.1111 31.1001C80.7746 46.5718 88.918 63.5715 82.7293 69.8048c-2.4322 2.4322-6.4116 2.9925-11.3268 1.9674" stroke="#000" stroke-linecap="round" stroke-width="6.36695"></path><path d="M41.9653 42.9448c13.4979-18.7635 29.6127-27.1232 38.8384-22.469 9.6778 4.858 6.367 25.5569-7.3156 46.1604-13.6826 20.6035-32.7389 33.4008-42.4167 28.543-8.0032-4.0239-7.2902-19.7375.9232-36.368" stroke="#000" stroke-linecap="round" stroke-width="6.36695"></path></svg><p id="reload-message" style="font-size:.875rem;margin-top:2rem;opacity:0;transition:opacity .7s ease-out;color:#212130;font-weight:600">Taking too long to respond? <span onclick="window.location.reload()" style="cursor:pointer;color:#5f2eea">Reload</span></p></div></div><script>// Show reload message.
+      setTimeout(function () {
+        document.getElementById("logo")?.classList.remove("animate-pulse");
+        message = document.getElementById("reload-message");
+        if (message) {
+          message.style.opacity = "1";
+        }
+      }, 30e3);</script><script>(function (w, d, t, u, n, a, m) {
+        w["MauticTrackingObject"] = n;
+        (w[n] =
+          w[n] ||
+          function () {
+            (w[n].q = w[n].q || []).push(arguments);
+          }),
+          (a = d.createElement(t)),
+          (m = d.getElementsByTagName(t)[0]);
+        a.async = 1;
+        a.src = u;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "https://mautic." + window.location.host + "/mtc.js",
+        "mt"
+      );
+      try {
+        window?.mt("send", "pageview");
+      } catch (error) {
+        console.log("Mautic initialization failed", error);
+      }</script><script>!function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","4844506905597450"),fbq("track","PageView")</script><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=4844506905597450&ev=PageView
+&noscript=1"/></noscript><script>window.globalConfig={LOGO_THUMBNAIL:"/brand-assets/logo_thumbnail.svg",BRAND_NAME:"Nbyula",WIDGET_BRAND_URL:"https://nbyula.com",DIRECT_UPLOADS_ENABLED:!1},window.chatwootSettings={position:"right",type:"expanded_bubble",launcherTitle:"Chat with us"},function(t,e){var n="https://support.nbyula.com",o=t.createElement(e),s=t.getElementsByTagName(e)[0];o.src=n+"/packs/js/sdk.js",o.defer=!0,o.async=!0,s.parentNode.insertBefore(o,s),o.onload=function(){window.chatwootSDK.run({websiteToken:"9s3SgjGc2rd37tBcdVh4NLfJ",baseUrl:n})}}(document,"script")</script><script>!function(e){function c(c){for(var d,a,b=c[0],n=c[1],o=c[2],u=0,l=[];u<b.length;u++)a=b[u],Object.prototype.hasOwnProperty.call(t,a)&&t[a]&&l.push(t[a][0]),t[a]=0;for(d in n)Object.prototype.hasOwnProperty.call(n,d)&&(e[d]=n[d]);for(i&&i(c);l.length;)l.shift()();return r.push.apply(r,o||[]),f()}function f(){for(var e,c=0;c<r.length;c++){for(var f=r[c],d=!0,a=1;a<f.length;a++){var n=f[a];0!==t[n]&&(d=!1)}d&&(r.splice(c--,1),e=b(b.s=f[0]))}return e}var d={},a={33:0},t={33:0},r=[];function b(c){if(d[c])return d[c].exports;var f=d[c]={i:c,l:!1,exports:{}};return e[c].call(f.exports,f,f.exports,b),f.l=!0,f.exports}b.e=function(e){var c=[];a[e]?c.push(a[e]):0!==a[e]&&{2:1,9:1,11:1,12:1,13:1,17:1,18:1,21:1,26:1,34:1,35:1,36:1,38:1,39:1,40:1,41:1,42:1,43:1,44:1,45:1,46:1,47:1,48:1,49:1,50:1,51:1,52:1,53:1,54:1,55:1,56:1,57:1,58:1,59:1,60:1,61:1,62:1,63:1,64:1,65:1,66:1,67:1,68:1,69:1,70:1,71:1,72:1,73:1,75:1,77:1,78:1,83:1,85:1,89:1,95:1,101:1,105:1,108:1,111:1,112:1,114:1,115:1,122:1,123:1,127:1,130:1,134:1,135:1,138:1,140:1}[e]&&c.push(a[e]=new Promise((function(c,f){for(var d="static/css/"+({}[e]||e)+"."+{0:"31d6cfe0",1:"31d6cfe0",2:"9b08f33d",3:"31d6cfe0",4:"31d6cfe0",5:"31d6cfe0",6:"31d6cfe0",7:"31d6cfe0",8:"31d6cfe0",9:"a4a141bf",10:"31d6cfe0",11:"57e7bdd4",12:"614ac912",13:"4c25a183",14:"31d6cfe0",15:"31d6cfe0",16:"31d6cfe0",17:"2658f927",18:"1a76f0cb",19:"31d6cfe0",20:"31d6cfe0",21:"b2a73c76",22:"31d6cfe0",23:"31d6cfe0",24:"31d6cfe0",25:"31d6cfe0",26:"dac33e3b",27:"31d6cfe0",28:"31d6cfe0",29:"31d6cfe0",30:"31d6cfe0",31:"31d6cfe0",34:"70f33dbc",35:"ea147667",36:"0c3c4e29",38:"be2c195e",39:"be2c195e",40:"493db8d2",41:"e3ffb775",42:"92b17cea",43:"923d628e",44:"c2f62857",45:"0c3c4e29",46:"b8f95fe2",47:"6972af09",48:"bdc189cd",49:"c2f62857",50:"c1c0ab6e",51:"9c822025",52:"c352b111",53:"508c8805",54:"411e6016",55:"bbf22fff",56:"cda132e3",57:"d1882c7d",58:"2ed0f056",59:"1a76f0cb",60:"1a76f0cb",61:"f27ff675",62:"a4a141bf",63:"59a47194",64:"da3798ad",65:"508fe635",66:"2ed0f056",67:"ef8a9235",68:"cf63ef18",69:"7183954a",70:"350b47f3",71:"66d1b47d",72:"cf63ef18",73:"65a3888f",74:"31d6cfe0",75:"bd59b4c5",76:"31d6cfe0",77:"c8ed92c4",78:"7183954a",79:"31d6cfe0",80:"31d6cfe0",81:"31d6cfe0",82:"31d6cfe0",83:"f27ff675",84:"31d6cfe0",85:"cf63ef18",86:"31d6cfe0",87:"31d6cfe0",88:"31d6cfe0",89:"49f6bdec",90:"31d6cfe0",91:"31d6cfe0",92:"31d6cfe0",93:"31d6cfe0",94:"31d6cfe0",95:"cf63ef18",96:"31d6cfe0",97:"31d6cfe0",98:"31d6cfe0",99:"31d6cfe0",100:"31d6cfe0",101:"50103869",102:"31d6cfe0",103:"31d6cfe0",104:"31d6cfe0",105:"cf63ef18",106:"31d6cfe0",107:"31d6cfe0",108:"4c25a183",109:"31d6cfe0",110:"31d6cfe0",111:"4c25a183",112:"cf63ef18",113:"31d6cfe0",114:"ef8a9235",115:"49f6bdec",116:"31d6cfe0",117:"31d6cfe0",118:"31d6cfe0",119:"31d6cfe0",120:"31d6cfe0",121:"31d6cfe0",122:"ef8a9235",123:"bdd93773",124:"31d6cfe0",125:"31d6cfe0",126:"31d6cfe0",127:"b2a73c76",128:"31d6cfe0",129:"31d6cfe0",130:"e32f2169",131:"31d6cfe0",132:"31d6cfe0",133:"31d6cfe0",134:"bd59b4c5",135:"bd59b4c5",136:"31d6cfe0",137:"31d6cfe0",138:"bd59b4c5",139:"31d6cfe0",140:"6298bc5e",141:"31d6cfe0",142:"31d6cfe0",143:"31d6cfe0",144:"31d6cfe0",145:"31d6cfe0",146:"31d6cfe0",147:"31d6cfe0",148:"31d6cfe0",149:"31d6cfe0",150:"31d6cfe0",151:"31d6cfe0",152:"31d6cfe0",153:"31d6cfe0",154:"31d6cfe0",155:"31d6cfe0",156:"31d6cfe0",157:"31d6cfe0",158:"31d6cfe0",159:"31d6cfe0",160:"31d6cfe0",161:"31d6cfe0",162:"31d6cfe0",163:"31d6cfe0",164:"31d6cfe0",165:"31d6cfe0",166:"31d6cfe0",167:"31d6cfe0",168:"31d6cfe0",169:"31d6cfe0",170:"31d6cfe0",171:"31d6cfe0",172:"31d6cfe0",173:"31d6cfe0",174:"31d6cfe0",175:"31d6cfe0",176:"31d6cfe0",177:"31d6cfe0",178:"31d6cfe0",179:"31d6cfe0",180:"31d6cfe0",181:"31d6cfe0",182:"31d6cfe0",183:"31d6cfe0",184:"31d6cfe0",185:"31d6cfe0",186:"31d6cfe0",187:"31d6cfe0",188:"31d6cfe0",189:"31d6cfe0",190:"31d6cfe0",191:"31d6cfe0",192:"31d6cfe0",193:"31d6cfe0",194:"31d6cfe0",195:"31d6cfe0",196:"31d6cfe0",197:"31d6cfe0",198:"31d6cfe0",199:"31d6cfe0"}[e]+".chunk.css",t=b.p+d,r=document.getElementsByTagName("link"),n=0;n<r.length;n++){var o=(i=r[n]).getAttribute("data-href")||i.getAttribute("href");if("stylesheet"===i.rel&&(o===d||o===t))return c()}var u=document.getElementsByTagName("style");for(n=0;n<u.length;n++){var i;if((o=(i=u[n]).getAttribute("data-href"))===d||o===t)return c()}var l=document.createElement("link");l.rel="stylesheet",l.type="text/css",l.onload=c,l.onerror=function(c){var d=c&&c.target&&c.target.src||t,r=new Error("Loading CSS chunk "+e+" failed.\n("+d+")");r.code="CSS_CHUNK_LOAD_FAILED",r.request=d,delete a[e],l.parentNode.removeChild(l),f(r)},l.href=t,document.getElementsByTagName("head")[0].appendChild(l)})).then((function(){a[e]=0})));var f=t[e];if(0!==f)if(f)c.push(f[2]);else{var d=new Promise((function(c,d){f=t[e]=[c,d]}));c.push(f[2]=d);var r,n=document.createElement("script");n.charset="utf-8",n.timeout=120,b.nc&&n.setAttribute("nonce",b.nc),n.src=function(e){return b.p+"static/js/"+({}[e]||e)+"."+{0:"9c3007c6",1:"d0eeb275",2:"d9ca11f9",3:"e52398fb",4:"480a6a07",5:"d57a6f89",6:"b42c4eb2",7:"8d1d1478",8:"74bdf06f",9:"9ebb3ff7",10:"dfc87c0a",11:"a957c1bc",12:"c3dc323e",13:"8e08d591",14:"53ee69e9",15:"7f80f862",16:"2fb40469",17:"50b849e2",18:"bc4a1781",19:"ea988709",20:"4327181c",21:"0e3f94cd",22:"df243f61",23:"491e9e0d",24:"87a7dc45",25:"dca1ba70",26:"06434518",27:"356e19bc",28:"f350c3e7",29:"c7dce16b",30:"0311195a",31:"26afc6d7",34:"d86548d3",35:"407942bc",36:"32afd949",38:"ff2585ba",39:"f95ab78a",40:"71e7ef10",41:"528e8021",42:"6576dd39",43:"9944ec73",44:"bce56279",45:"4321ccc0",46:"32a6bdee",47:"f4fe450d",48:"a08d6a9b",49:"50423c71",50:"148914f2",51:"4cc7e0e9",52:"ce43631c",53:"c01b0762",54:"7d590292",55:"26a79660",56:"9af241d1",57:"10ba823f",58:"cf95d83f",59:"12a4895e",60:"ebc7e036",61:"253b69fc",62:"82adf36c",63:"2bc8d9cc",64:"5a2b3176",65:"0950c493",66:"a2596cfc",67:"b06fd0c3",68:"dd144dcb",69:"4d245fa3",70:"c5fb7e33",71:"34938dd7",72:"ab7fa278",73:"e3572558",74:"b137c128",75:"3e53efe1",76:"da503aed",77:"5b6b48ca",78:"f08d23eb",79:"b5c29f3c",80:"35e7b74b",81:"eec7db12",82:"9fc3dd01",83:"3726902f",84:"36e65a27",85:"ff01729d",86:"ea70addd",87:"1de168a5",88:"13ec4ad2",89:"7bf1dca2",90:"10748a79",91:"c7753bfe",92:"d55c4382",93:"98c57acb",94:"dd361b79",95:"318fa5ee",96:"d68b91b3",97:"a948007e",98:"1619162b",99:"f2fbfa54",100:"24ba3909",101:"d6af08f7",102:"ebdf9909",103:"4b2c303f",104:"1edf67a6",105:"d1d2b1c0",106:"bf55bdb2",107:"2fa4e5b2",108:"5b160526",109:"144e00fe",110:"ef40506f",111:"08cbca7a",112:"babf1000",113:"1196e851",114:"612aaf59",115:"29500d38",116:"a8c7fc75",117:"acb7d187",118:"2939a9fd",119:"c3e24362",120:"e47e7333",121:"0086758c",122:"fb0064e6",123:"7e8c369e",124:"c33c61b5",125:"e5d7e8f9",126:"a2664a53",127:"6c93d402",128:"bf808406",129:"a59165b3",130:"3358c4bc",131:"d3a2d318",132:"7e70c798",133:"44c9434a",134:"f75c8e18",135:"7b2354ee",136:"8c42cc4b",137:"3ec5c5b7",138:"064267f0",139:"cf1f4825",140:"960a6f99",141:"2131483c",142:"125a3808",143:"4919e6ae",144:"17adaae3",145:"d437cb60",146:"eb3e963e",147:"978aa30d",148:"4feed0f1",149:"2057343f",150:"6d94f4e5",151:"5b19cba3",152:"3bc25edd",153:"7e2f3b35",154:"0120da77",155:"93191407",156:"9e362fad",157:"64260474",158:"12c5ce15",159:"1a7d8950",160:"00d08986",161:"7b4e53c5",162:"961a971d",163:"d2e72445",164:"1618cede",165:"dd69ba46",166:"73793666",167:"ce50957b",168:"5d5078a1",169:"77c685e6",170:"813967dc",171:"d82e3347",172:"70142c75",173:"ad3b4965",174:"8230f690",175:"58d48fdd",176:"713c8920",177:"b41e4cad",178:"069584e4",179:"58769f32",180:"d988e35a",181:"22751974",182:"0c91311a",183:"ce939ecb",184:"46e84d3d",185:"8fe90024",186:"8742e661",187:"ade6b3b2",188:"3536656c",189:"62db9ac8",190:"d198c16e",191:"3ec94d80",192:"debc2dff",193:"1fff7ed3",194:"d7825b76",195:"b6c94550",196:"d3c6f1c0",197:"c3ba2cfc",198:"1f726f3c",199:"28e0a2c0"}[e]+".chunk.js"}(e);var o=new Error;r=function(c){n.onerror=n.onload=null,clearTimeout(u);var f=t[e];if(0!==f){if(f){var d=c&&("load"===c.type?"missing":c.type),a=c&&c.target&&c.target.src;o.message="Loading chunk "+e+" failed.\n("+d+": "+a+")",o.name="ChunkLoadError",o.type=d,o.request=a,f[1](o)}t[e]=void 0}};var u=setTimeout((function(){r({type:"timeout",target:n})}),12e4);n.onerror=n.onload=r,document.head.appendChild(n)}return Promise.all(c)},b.m=e,b.c=d,b.d=function(e,c,f){b.o(e,c)||Object.defineProperty(e,c,{enumerable:!0,get:f})},b.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},b.t=function(e,c){if(1&c&&(e=b(e)),8&c)return e;if(4&c&&"object"==typeof e&&e&&e.__esModule)return e;var f=Object.create(null);if(b.r(f),Object.defineProperty(f,"default",{enumerable:!0,value:e}),2&c&&"string"!=typeof e)for(var d in e)b.d(f,d,function(c){return e[c]}.bind(null,d));return f},b.n=function(e){var c=e&&e.__esModule?function(){return e.default}:function(){return e};return b.d(c,"a",c),c},b.o=function(e,c){return Object.prototype.hasOwnProperty.call(e,c)},b.p="/",b.oe=function(e){throw console.error(e),e};var n=this.webpackJsonpclient=this.webpackJsonpclient||[],o=n.push.bind(n);n.push=c,n=n.slice();for(var u=0;u<n.length;u++)c(n[u]);var i=o;f()}([])</script><script src="/static/js/37.ebcf5841.chunk.js"></script><script src="/static/js/main.dcb9e7e7.chunk.js"></script></body></html>
